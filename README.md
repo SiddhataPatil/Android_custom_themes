@@ -2,7 +2,7 @@
 An android app that changes custom themes at runtime.
 
 ## Output
-<img src='https://github.com/SiddhataPatil/Android_custom_themes/blob/master/theme.gif' width="370" height="750" />
+<img src='https://github.com/SiddhataPatil/Android_custom_themes/blob/master/themes.gif' width="370" height="750" />
 
 
 ## Overview
